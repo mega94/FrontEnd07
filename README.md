@@ -6,7 +6,7 @@
 
 
 ```
-const data = [
+const stack = [
   {
     frontend: [
       "reactJS", 
