@@ -1,16 +1,39 @@
-### Hi there 👋
+Контакты: [@FrontEnd07](https://t.me/FrontEnd07)
 
-<!--
-**FrontEnd07/FrontEnd07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Обо мне:  Стаж фронтенд-разработки - 1.5 года. За этот период занимался разработкой интернет-магазинов, телеграм-ботов и ботов автоматизирующих действия человека в браузере. Текущий проект - разработка клиентской части система электронного журнала для городских школ.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+```
+const data = [
+  {
+    frontend: [
+      "reactJS", 
+      "React hook", 
+      "Redux", 
+      "Redux-toolkit", 
+      "JavaScript", 
+      "JQuery", 
+      "Ajax", 
+      "HTML", 
+      "CSS",
+      "SCSS",
+      "LESS"
+    ],
+    backend: [
+      "Php",
+      "MySQL"
+    ],
+    soft: [
+      "Yarn",
+      "npm",
+      "github"
+    ]
+    editorDesign: [
+      "Figma",
+      "Adobe Photoshop"
+    ]
+  }
+]
+```
